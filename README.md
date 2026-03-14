@@ -22,8 +22,6 @@ A Monte Carlo simulation written in C++ to estimate probabilities of 5-card poke
 
 ## Example Output
 
-Total Simulations: 10000000
-
 Total Simulations:  1000
 
 -----------------------------------------------------------
@@ -135,11 +133,11 @@ As the number of simulations increases, the simulated probabilities approach the
 
 ## Project Structure
 
-poker-probability-simulator/
-|
-|-- main.cpp
-|-- README.md
-|--.gitignore
+poker-probability-simulator
+│
+├── main.cpp
+├── README.md
+└── .gitignore
 
 ## Language
 

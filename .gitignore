@@ -1,0 +1,13 @@
+# Mac files
+.DS_Store
+
+# Build files
+*.out
+*.exe
+*.o
+
+# VSCode
+.vscode/
+
+# CMake
+build/
